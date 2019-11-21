@@ -1,6 +1,14 @@
 # Starting a Svelte Application
 
 * https://svelte.dev/blog/the-easiest-way-to-get-started[The Easiest Way to Start using Svelte]
+* https://github.com/Rich-Harris/degit[`degit`]
+
+
+.installing-degit
+[source,bash]
+----
+$ npm install -g degit
+----
 
 .starting-svelte
 [source,bash]
