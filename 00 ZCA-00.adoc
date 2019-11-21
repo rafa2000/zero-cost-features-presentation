@@ -8,3 +8,9 @@ Let me give you some terms to see if we can start adding them up:
 * An example of classes at high-level
 * Review of produced code at low-level
 * [Slide 19] typescript-deep-drive
+
+# Microsoft Stack
+* TypeScript
+* Visual Studio Code
+* GitHub
+* Svelte (Heavy use of it in VSC and VS)
