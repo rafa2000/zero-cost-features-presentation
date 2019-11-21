@@ -1,0 +1,6 @@
+# JavaScript Frameworks
+
+* JQuery (MIT License)
+* Angular.js (Google OS)
+* React.js (Facebook OS)
+* Vue.js (Evan You - OS in GitHub)
