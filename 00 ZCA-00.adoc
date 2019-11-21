@@ -3,8 +3,8 @@
 Let me give you some terms to see if we can start adding them up:
 
 * Zero Cost Abstractions
-* JavaScript
-* TypeScript
+* JavaScript Frameworks
+* TypeScript Transpiler with ZCA
 * An example of classes at high-level
 * Review of produced code at low-level
 * [Slide 19] typescript-deep-drive
