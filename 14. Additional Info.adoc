@@ -1,0 +1,6 @@
+# Additional Resources
+
+* https://www.youtube.com/watch?v=LIfIRdRlD58[Svelte Quick Start]
+* https://www.nativescript.org/blog/quick-intro-to-using-svelte-to-create-a-native-mobile-app[Svelte Mobile Apps]
+* https://techformist.com/create-a-simple-to-do-app-using-svelte-and-graphql/[Svelte and GraphQL]
+* https://twitter.com/rich_harris[Rich Harris Tweeter]

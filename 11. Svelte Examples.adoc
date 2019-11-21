@@ -1,4 +1,6 @@
-# Svelte Examples
+# Svelte through Examples
+
+* https://www.youtube.com/watch?v=AdNJ3fydeao&t=308s[Rethinking Reactivity -- Rich Harris]
 
 ## Reactivity
 * https://svelte.dev/examples#reactive-assignments[Reactive Assignments]
