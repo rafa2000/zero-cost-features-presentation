@@ -1,6 +1,7 @@
 # Starting a Svelte Application
 
 * https://svelte.dev/blog/the-easiest-way-to-get-started[The Easiest Way to Start using Svelte]
+* https://svelte.dev/blog/svelte-for-new-developers[Svelte for new developers]
 * https://github.com/Rich-Harris/degit[Where is `degit`?]
 
 
