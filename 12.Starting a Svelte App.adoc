@@ -1,0 +1,12 @@
+# Starting a Svelte Application
+
+* https://svelte.dev/blog/the-easiest-way-to-get-started[The Easiest Way to Start using Svelte]
+
+.starting-svelte
+[source,bash]
+----
+$ npx degit sveltejs/template svelte-app-one
+$ cd svelte-app-one
+$ npm install
+$ npm run dev
+----
