@@ -1,0 +1,7 @@
+# Zero Cost Abstractions
+
+[quote, Bjarne Stroustrup]
+----
+What you don't use, you don't pay for. What you do use you couldn't hand code any better.
+----
+_Bjarne Stroustrup_ https://boats.gitlab.io/blog/post/zero-cost-abstractions/[Zero Cost Abstractions]
