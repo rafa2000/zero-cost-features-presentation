@@ -1,0 +1,5 @@
+Why Svelte?
+(Links courtsy of Jasmin Rojas)
+
+* https://dev.to/bholmesdev/why-sveltejs-may-be-the-best-framework-for-new-web-devs-205i[Why SvelteJS may be the best framework for new web devs]
+* https://2018.stateofjs.com/front-end-frameworks/other-libraries/[Front End Frameworks Status]
