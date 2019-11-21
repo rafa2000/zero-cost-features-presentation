@@ -6,9 +6,9 @@
 ## Features
 
 * Transpiler to low level JS and all intermediate levels
-* Classes
-* JavaScript futures
-* Modules
 * Interfaces
+* Classes
+* Modules
+* JavaScript futures
 * Every feature as a Zero Cost Abstraction
 
