@@ -1,7 +1,7 @@
 # ZCF
 * Zero Cost Features
 * Can we add?
-* Let me give you some terms...
+* Let me give you some terms so we can start adding them up:
 * Zero Cost Features
 * JavaScript
 * TypeScript
