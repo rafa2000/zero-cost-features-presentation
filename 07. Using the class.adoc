@@ -1,11 +1,6 @@
-:experimental:
-:source-highlighter: coderay
-:icons: font
+# Using the class
 
-# A class for 2D points
-Code in high level TypeScript classes
-
-.class-point.ts
+.using-the-class.ts
 [source,javascript]
 ----
 class Point {
@@ -21,4 +16,9 @@ class Point {
     return new Point(this.x + point.x, this.y + point.y)
   }
 }
+
+var p1 = new Point(0, 10)
+var p2 = new Point(10, 20)
+var p3 = p1.add(p2)
+console.log(p3)   // -> Point { x: 10, y: 30 }
 ----
