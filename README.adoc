@@ -1,0 +1,44 @@
+# ZCF
+* Zero Cost Features
+* Can we add?
+* Let me give you some terms...
+* Zero Cost Features
+* JavaScript
+* TypeScript
+* Visual Studio Code
+* GitHub
+* Azure
+* Microsoft
+
+# TypeScript
+* TypeScript Example
+* 2D Point Class
+* 3D Point Class as extension
+* Code Review
+
+# SVELTE
+* Svelte is a new way to build applications
+* It is a compiler that...
+* Takes your declarative (high-level) components and ...
+* converts them into efficient JavaScript
+* that surgically update the real DOM at real time
+* No virtual DOM is used.
+* Svelte is an ultimate example of Zero Cost Features
+
+# Svelte Example 1
+* Adding Machine
+
+# Svelte Example 2
+* TODO list
+
+# Svelte Example 3
+* Interactive Life Game
+
+# How to start a new Svelte App
+
+```bash
+$ npx degit sveltejs/template svelte-app-one
+$ cd svelte-app-one
+$ npm install
+$ npm run dev
+```
