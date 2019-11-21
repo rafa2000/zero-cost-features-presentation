@@ -12,5 +12,6 @@ Let me give you some terms to see if we can start adding them up:
 # Microsoft Stack
 * TypeScript
 * Visual Studio Code
+* Rust (Heavy use and commitment)
 * GitHub
 * Svelte (Heavy use of it in VSC and VS)
